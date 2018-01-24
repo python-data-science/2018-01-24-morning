@@ -2,7 +2,7 @@
 
 ### Decision Trees
 
-You are given data from the Titanic, in `data.csv'.
+You are given data from the Titanic, in `data.csv`.
 
 For this challenge we need to guess whether the individuals from the dataset had survived or not. Use the provided features and either modify, delete or add new features based on existing ones. This is a very core part of being a data scientist.
 
